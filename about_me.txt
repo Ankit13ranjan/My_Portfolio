@@ -1,0 +1,114 @@
+Hi, I'm **Ankit Ranjan**—a Data Engineer with 2+ years of expertise in building scalable data pipelines and a deep passion for transforming raw data into meaningful insights.
+
+### Who I Am
+
+I'm a certified Data Engineer specializing in modern data stack technologies:
+
+* **Apache Spark** for distributed data processing
+* **Databricks** for collaborative analytics and ML workflows  
+* **Python & PySpark** for ETL pipeline development
+* **AWS & Azure** for cloud-native data solutions
+* **SQL** for data transformation and warehousing
+
+What started as curiosity about data patterns has become a consistent drive to architect, optimize, and innovate through scalable data solutions.
+
+### What I Do
+
+I develop data pipelines and warehouse solutions that are robust, scalable, and performance-optimized. My expertise spans the entire data lifecycle, from ingestion to analytics. I prioritize:
+
+* Clean data architecture using Medallion patterns (Bronze → Silver → Gold)
+* Scalable ETL pipeline orchestration
+* Optimized data processing with advanced Spark configurations
+* Continuous performance monitoring and improvement
+
+### Projects That Define Me
+
+**1. F1 Racing Data Engineering Project**
+A comprehensive data engineering solution implementing medallion architecture for F1 racing data, featuring incremental schema-aware ingestion and end-to-end pipeline orchestration using Databricks and Azure.
+
+**2. IPL Data Analytics**
+An advanced cricket statistics analysis platform that efficiently structures IPL data, enabling deep regional and role-based analysis through optimized queries and insightful dashboards using AWS services.
+
+**3. R Systems MDM Employee Data Project**
+An enterprise Master Data Management solution for employee data using Databricks and AWS, implementing robust data governance, quality validation, and unified employee data views across multiple business systems with automated data reconciliation processes.
+
+**4. SmartStream ETL Pipeline (Current)**
+Currently developing an enterprise-grade ETL solution leveraging AWS Glue, S3, and PySpark, achieving 45% reduction in processing time through bucketization and broadcast joins optimization.
+
+### Why Data Engineering?
+
+Data Engineering is the backbone of modern analytics and AI—it's about building the infrastructure that powers data-driven decisions. I'm mastering advanced concepts including:
+
+* Distributed computing and parallel processing
+* Real-time streaming architectures
+* Data lake and warehouse design patterns
+* Performance optimization and cost management
+
+Tools I work with include Databricks, AWS Glue, Lambda, Step Functions, Redshift, and modern orchestration frameworks.
+
+My goal is to build data systems that not only process information efficiently but scale seamlessly with business growth.
+
+### Technical Setup
+
+I work with enterprise-grade cloud platforms and my data engineering stack includes:
+
+* **Cloud Platforms**: AWS (S3, Glue, Lambda, Redshift), Azure (ADF, Synapse)
+* **Big Data**: Apache Spark, Databricks, Delta Lake, HDFS
+* **Programming**: Python, PySpark, SQL, JavaScript
+* **Tools**: Git, Linux, Postman
+* **Development**: VS Code, command-line interfaces
+
+Even with complex distributed systems, I've optimized workflows for reliability, monitoring, and automated deployment.
+
+### Professional Achievements & Community
+
+I believe in continuous learning and professional development:
+
+* **Databricks Certified Data Engineer Associate**
+* **AWS Solution Architect Associate** (Completed)
+* **Hackathon Achievement**: AutoISV Innovation Quest - Rank 3
+* **Coding Excellence**: CodeKaze Global Event - College Rank 1
+* **Problem Solving**: 800+ problems solved across LeetCode, CodeChef, GeeksforGeeks
+
+I'm active in the data engineering community through knowledge sharing and technical discussions.
+
+### What Drives Me
+
+My core principles:
+
+* **Performance optimization**: every pipeline can be made faster and more efficient
+* **Scalable design**: building systems that grow with data volume
+* **Data integrity**: ensuring accuracy and consistency across all transformations
+* **Continuous improvement**: monitoring, measuring, and enhancing system performance
+
+### Goals for 2025
+
+* Advance expertise in real-time streaming architectures
+* Contribute to open-source data engineering projects
+* Expand knowledge in MLOps and data science integration  
+* Build expertise in modern data stack tools (dbt, Airflow, Kafka)
+* Network with data engineering professionals and thought leaders
+* Explore edge computing for IoT data processing
+* Learn advanced cloud architecture patterns
+* Share insights through technical blogs and articles
+
+### Current Focus
+
+**Freelance Data Engineering** (Sept 2024 - Present)
+* Designing and delivering enterprise ETL pipelines using AWS
+* Optimizing big data processing with advanced Spark techniques
+* Achieving significant performance improvements (45% processing time reduction)
+* Implementing scalable data architecture patterns
+
+**Previous Experience**: Data Engineer at R Systems International, where I reduced job processing time from 7 hours to 1.5 hours and improved pipeline accuracy by 35%.
+
+### Final Thoughts
+
+I don't just want to process data—I want to architect systems that unlock its true potential.
+My approach combines technical excellence with business understanding, ensuring that every pipeline I build delivers measurable value.
+
+If you're looking for a data engineer who combines certified expertise with proven results, strong problem-solving skills, and a passion for scalable architecture—let's connect.
+
+I'm **Ankit Ranjan**, and I'm building the data infrastructure that powers tomorrow's insights—one optimized pipeline at a time.
+
+
